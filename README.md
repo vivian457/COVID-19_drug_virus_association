@@ -1,1 +1,1 @@
-# JCST_drug_virus_association
+# virus-drug_association_prediction
